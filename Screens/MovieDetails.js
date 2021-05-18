@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import {StyleSheet, Text, View, SafeAreaView, Image} from 'react-native';
 
-const BaseUrl = 'http://www.omdbapi.com/?apikey=c12b1fd5&i=';
+const BaseUrl = 'http://www.omdbapi.com/?apikey=b3d02e27&i=';
 
 const MovieDetails = props => {
 
