@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import {StyleSheet, Text, View, Button, SafeAreaView, TouchableOpacity, FlatList, TextInput} from 'react-native';
 
-const BaseUrl = 'http://www.omdbapi.com/?apikey=c12b1fd5&type=movie&s=';
+const BaseUrl = 'http://www.omdbapi.com/?apikey=b3d02e27&type=movie&s=';
 
 const Search = props => {
 
